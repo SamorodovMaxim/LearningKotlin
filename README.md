@@ -1,2 +1,3 @@
-# LearningKotlin
-Test
+fun main(){
+    println("Hello Kotlin")
+}
